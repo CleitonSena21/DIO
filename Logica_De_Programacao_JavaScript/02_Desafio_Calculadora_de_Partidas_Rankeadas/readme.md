@@ -1,3 +1,7 @@
+# Desafio - Calculadora De Partidas Rankeadas
+
+Este projeto foi feito para o Bootcampo da GFT Start #6 - Lógica de Programação
+
 ## Instruções para entrega
 
 # 2️⃣ Calculadora de partidas Rankeadas
