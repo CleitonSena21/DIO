@@ -5,7 +5,6 @@ const rl = readline.createInterface({
     output: process.stdout
 });
 
-// Função para classificar o nível do herói com base na experiência
 function classificarHeroi(nome, experiencia) {
     let nivel;
 
@@ -21,7 +20,6 @@ function classificarHeroi(nome, experiencia) {
     return `O Herói de nome ${nome} está no nível de ${nivel}`;
 }
 
-// Leitura dos dados do usuário
 rl.question("Digite o nome do herói: ", (nomeHeroi) => {
     rl.question("Digite a experiência do herói: ", (experienciaInput) => {
         const experienciaHeroi = parseInt(experienciaInput);
