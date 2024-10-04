@@ -1,4 +1,4 @@
-# Desafio - Classificador De Nível De Héroi 
+# Desafio - Classificador De Nível De Herói 
 
 Este projeto foi feito para o Bootcampo da GFT Start #6 - Lógica de Programação
 
